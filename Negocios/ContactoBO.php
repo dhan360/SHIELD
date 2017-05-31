@@ -4,7 +4,7 @@
 
 	class ContactoBO
 	{
-		private $contacto;
+		private $contacto;///Prueba
 		private $contactoDao;
 
 		function __construct()
